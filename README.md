@@ -29,7 +29,7 @@ It should use backtracking or other suitable techniques to explore possible solu
 
 
 PROGRAMMING LANGUAGES USED:
-![python-original](https://github.com/user-attachments/assets/50bd7b18-cd05-4624-8b6d-bffd755f4426)
+![python-original](https://github.com/user-attachments/assets/50bd7b18-cd05-4624-8b6d-bffd755f4426 )width=600px
 
 
 
