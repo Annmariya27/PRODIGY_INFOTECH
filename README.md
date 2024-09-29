@@ -28,9 +28,10 @@ It should use backtracking or other suitable techniques to explore possible solu
 ![Screenshot 2024-09-29 220231](https://github.com/user-attachments/assets/a593eaf3-585b-4c92-b784-652d40cc9be1)
 
 
-PROGRAMMING LANGUAGES USED:
-![python-original](https://github.com/user-attachments/assets/50bd7b18-cd05-4624-8b6d-bffd755f4426 )width=600px
 
+PROGRAMMING LANGUAGE USED:
+
+PYTHON
 
 
 
